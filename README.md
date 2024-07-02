@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **all**
 
-- 👨‍💻 All of my projects are available at [https://github.com/xianfuhui](https://github.com/xianfuhui)
+- 👨‍💻 All of my projects are available at [https://github.com/xianfuhui](https://github.com/wohuy)
 
 - 📝 I regularly write articles on [https://www.threads.net/@wohuy](https://www.threads.net/@wohuy)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tphuyvvk@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/xianfuhui](https://github.com/xianfuhui)
+- 📄 Know about my experiences [https://github.com/xianfuhui](https://github.com/wohuy)
 
 - ⚡ Fun fact **I think I am funny**
 
