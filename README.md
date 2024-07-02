@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huy</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A Passionate Developer</h3>
 
 - 🔭 I’m currently working on **all**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **all**
 
-- 👨‍💻 All of my projects are available at [https://github.com/xianfuhui](https://github.com/wohuy)
+- 👨‍💻 All of my projects are available at [https://github.com/wohuy](https://github.com/wohuy)
 
 - 📝 I regularly write articles on [https://www.threads.net/@wohuy](https://www.threads.net/@wohuy)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tphuyvvk@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/xianfuhui](https://github.com/wohuy)
+- 📄 Know about my experiences [https://github.com/wohuy](https://github.com/wohuy)
 
 - ⚡ Fun fact **I think I am funny**
 
