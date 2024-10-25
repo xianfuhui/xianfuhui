@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Passionate Developer
 ----------------------
 
-I am currently a 4th year student at Ton Duc Thang University with an Excellent GPA (8.25/10) and on the list of students with high scores in the class and Faculty of Information Technology.
+GPA 8.33/10
 
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [tphuyvvk@gmail.com](mailto:tphuyvvk@gmail.com)
